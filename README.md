@@ -6,3 +6,7 @@ https://www.reddit.com/r/dailyprogrammer/comments/7pmt9c/20180110_challenge_346_
 1) Clone or download this repository.
 2) Build with `cargo build`.
 3) Run `./target/debug/isprime-flt -h` for usage instructions.
+
+## License
+
+This project is licensed under the [GNU Affero General Public License v3.0 or later](LICENSE) (`AGPL-3.0-or-later`).
